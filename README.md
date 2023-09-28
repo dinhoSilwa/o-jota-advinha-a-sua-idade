@@ -6,7 +6,7 @@
 Este é um aplicativo da web simples que utiliza HTML, Bootstrap e JavaScript para adivinhar a idade do usuário com base em suas entradas.
 
 Acesse :) 
-https://dinhosilwa.github.io/o-JOTA-advinha-a-sua-idade-com-javascript/
+https://dinhosilwa.github.io/o-jota-advinha-a-sua-idade/
 
 ![Print da tela inicial](https://i.imgur.com/vRXQlmw.png).
 
